@@ -1,2 +1,3 @@
 # SQL_With_COVID_Data
-Here, I use SQLite to run some queries on a large COVID dataset which includes data from every country in the world.
+
+[Link to Tableau dashboard](https://public.tableau.com/app/profile/alexander.bandurin/viz/Covid_Data_16815071012620/Vaccinesmillion):
