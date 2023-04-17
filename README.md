@@ -1,6 +1,9 @@
 # SQL_With_COVID_Data
 
-[Link to Tableau dashboard](https://public.tableau.com/app/profile/alexander.bandurin/viz/Covid_Data_16815071012620/Vaccinesmillion)
+I explore a dataset from [this source](https://ourworldindata.org/covid-deaths) that contains COVID data from all over the world.
+Using Pandas and SQLite, I gain insight about COVID cases, vaccinations, and deaths.
+
+To visualize my findings, I built a dashboard in Tableau. [Link to Tableau dashboard](https://public.tableau.com/app/profile/alexander.bandurin/viz/Covid_Data_16815071012620/Vaccinesmillion)
 
 Notes: 
 
