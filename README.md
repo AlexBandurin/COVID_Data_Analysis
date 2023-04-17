@@ -23,5 +23,3 @@ The dashboard consists of several parts. These are:
 - **New Deaths/million**: Shows the smoothed 7-day average of new COVID deaths per 1 million people
 
 The dashboard is interactive such that the user can select which countries and or continents to view. There is also a date filter by month of date. 
-
-Three countries have been highlighted from the rest. These are Chine (red), USA (blue), Canada (green), and Germany (yellow).
