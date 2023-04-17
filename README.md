@@ -1,7 +1,7 @@
 # SQL_With_COVID_Data
 
 I explore a dataset that contains COVID data from all over the world from "Our World in Data (OWID)", a scientific online publication.
-[Source](https://ourworldindata.org/covid-deaths) 
+<br>[Source](https://ourworldindata.org/covid-deaths) 
 
 Using Pandas and SQLite, I gain insight about COVID cases, vaccinations, and deaths.
 
